@@ -1,4 +1,4 @@
-{
+return {
     "The Anubis",
     "Love and Pain",
     "We do a little trolling",
